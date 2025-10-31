@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/23251014/README.md)
 # COUTURE - Web3 Fashion Marketplace
 
 A full-stack Next.js + TypeScript + Solana marketplace for handcrafted garments with on-chain traceability powered by Metaplex, state compression, and Anchor smart contracts.
